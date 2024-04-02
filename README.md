@@ -1,6 +1,6 @@
 # OrchardCoreExample
 
-OrchardCore应用示例 更新orchardcore版本引用为1.5.0
+OrchardCore应用示例 更新orchardcore版本引用为1.8.2
 
 ## 示例说明
 
